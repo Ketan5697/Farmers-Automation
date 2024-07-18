@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sample Suite">
+<test name="Login Positive Scenerio">
+<classes>
+<class name="LumineoxTestCases.LuminoexLoginNegativeSceneario">
+</class>
+</classes>
+</test>
+
+<test name="Login Negative Scenerio">
+<classes>
+<class name="LumineoxTestCases.LuminoexloginPostiveSceneario">
+</class>
+</classes>
+</test>
+
+<test name="Verify the Product Details">
+<classes>
+<class name="LumineoxTestCases.ProductDetails">
+</class>
+</classes>
+</test>
+</suite>
